@@ -24,9 +24,9 @@ Unzip the file and extract it to the **mods** folder.
 
 Mod folder location:
 
-Windows: %appdata%\.minecraft\mods
+Windows: ***%appdata%\.minecraft\mods***
 
-Linux/OS X: home/username/.minecraft/mods
+Linux/OS X: ***home/username/.minecraft/mods***
 
 
 ## GDLauncher
@@ -39,4 +39,21 @@ Unzip the file and extract it to the **mods** folder.
 To get to the **mods** folder you will **right click** the FabricMC instance you just made, then click on **Go to folder**.
 Then a folder window should open, go to the **mods** folder (What are you waiting form, just double click it)
 
+# Why download the PREFERED .zip file?
 
+There are 2 **versions** of BestFPS, the **PVP** version or the **normal version**
+
+The **PVP** version includes [FabricMC](FabricMC.net/use) PVP mods, the **normal** version doesnt include these **PVP** mods.
+The **PVP** version includes a ***MiniMap*** so be careful with it on *servers* that do ***not*** allow **MiniMap mods** since you can ***easily*** get banned.
+
+# And of course, credit to the creators of these mods!
+
+I just picked these mods up and got them in a ***modpack***
+
+## I sincerely tried to get this modpack as close as I can to optifine.
+
+No shaders, thats because of ***Sodium***.
+No *Optifine* format texture packs, ***i couldnt find a mod for that***.
+No **Fancy textures mode**, Sodium and other mods in this **pack** dont ***support*** that.
+
+## That's it, thanks for a t l e a s t reading this.
