@@ -13,18 +13,13 @@ In Vanilla Minecraft I normally tend to get around 10 or 15 FPS (Because my lapt
 
 ### I was too lazy to code a install so here we are.
 
-*Temporary hyperlinks:*
-
-
-[Normal Minecraft launcher/TLauncher](../README.md/#normal-mc-launchertlauncher)
-
-[GDLauncher](../README.md/#GDLauncher)
+Installation is different depending on which launcher you are using, ill add more installation methods as I learn how to get these mods working on different launchers.
 
 ## Normal MC launcher/TLauncher
 
 First, download and install FabricMC from [Fabric](FabricMC.net/use), then:
 
-Download the .zip file from the [Releases](github.com/alexfeed1990real/BestFPS/Releases) tab.
+Download the prefered .zip file from the [Releases](github.com/alexfeed1990real/BestFPS/Releases) tab.
 Unzip the file and extract it to the **mods** folder.
 
 Mod folder location:
@@ -38,9 +33,10 @@ Linux/OS X: home/username/.minecraft/mods
 
 First, make a FabricMC instance, then:
 
-Download the .zip file from the [Releases](github.com/alexfeed1990real/BestFPS/Releases) tab.
+Download the prefered .zip file from the [Releases](github.com/alexfeed1990real/BestFPS/Releases) tab.
 Unzip the file and extract it to the **mods** folder.
 
 To get to the **mods** folder you will **right click** the FabricMC instance you just made, then click on **Go to folder**.
 Then a folder window should open, go to the **mods** folder (What are you waiting form, just double click it)
+
 
