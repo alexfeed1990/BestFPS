@@ -41,10 +41,12 @@ Then a folder window should open, go to the **mods** folder (What are you waitin
 
 # Why download the PREFERED .zip file?
 
-There are 2 **versions** of BestFPS, the **PVP** version or the **normal version**
+There are 3 **versions** of BestFPS, the **PVP** version, the **normal version** and the **minimal** version.
 
 The **PVP** version includes [FabricMC](FabricMC.net/use) PVP mods, the **normal** version doesnt include these **PVP** mods.
 The **PVP** version includes a ***MiniMap*** so be careful with it on *servers* that do ***not*** allow **MiniMap mods** since you can ***easily*** get banned.
+
+The **Minimal** version includes ***ONLY*** the FPS boosting mods.
 
 # And of course, credit to the creators of these mods!
 
