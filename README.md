@@ -15,9 +15,10 @@ In Vanilla Minecraft I normally tend to get around 10 or 15 FPS (Because my lapt
 
 *Temporary hyperlinks:*
 
-Normal Minecraft launcher/TLauncher
-[Normal Minecraft launcher/TLauncher](main/README.md/#normal-mc-launchertlauncher)
-[GDLauncher](../main/README.md/#GDLauncher)
+
+[Normal Minecraft launcher/TLauncher](../README.md/#normal-mc-launchertlauncher)
+
+[GDLauncher](../README.md/#GDLauncher)
 
 ## Normal MC launcher/TLauncher
 
