@@ -17,8 +17,9 @@ Installation is different depending on which launcher you are using, ill add mor
 
 Installations for:
 
-[Normal/TLauncher](https://github.com/alexfeed1990/BestFPS/main/readme.md/#Normal-MC-launcherTLauncher)
-[GDLauncher](https://github.com/alexfeed1990/BestFPS/main/readme.md/#GDLauncher)
+[Normal/TLauncher](https://github.com/alexfeed1990/BestFPS/blob/main/README.md#normal-mc-launchertlauncher)
+
+[GDLauncher](https://github.com/alexfeed1990/BestFPS/blob/main/README.md#gdlauncher)
 
 ## Normal MC launcher/TLauncher
 
