@@ -26,7 +26,7 @@ Installations for:
 First, download and install FabricMC from [Fabric](https://fabricmc.net/use), then:
 
 Download the prefered .zip file from the [Releases](https://github.com/alexfeed1990/BestFPS/Releases) tab.
-Unzip the file and extract it to the **mods** folder.
+Unzip the file and extract it to the **mods** folder. (If the **mods** folder doesn't exist create a folder named **mods** in you're **.minecraft** folder.)
 
 Mod folder location:
 
