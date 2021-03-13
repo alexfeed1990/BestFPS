@@ -17,7 +17,7 @@ Installation is different depending on which launcher you are using, ill add mor
 
 ## Normal MC launcher/TLauncher
 
-First, download and install FabricMC from [Fabric](FabricMC.net/use), then:
+First, download and install FabricMC from [Fabric](fabricmc.net/use), then:
 
 Download the prefered .zip file from the [Releases](github.com/alexfeed1990real/BestFPS/Releases) tab.
 Unzip the file and extract it to the **mods** folder.
@@ -43,7 +43,7 @@ Then a folder window should open, go to the **mods** folder (What are you waitin
 
 There are 3 **versions** of BestFPS, the **PVP** version, the **normal version** and the **minimal** version.
 
-The **PVP** version includes [FabricMC](FabricMC.net/use) PVP mods, the **normal** version doesnt include these **PVP** mods.
+The **PVP** version includes [FabricMC](fabricmc.net/use) PVP mods, the **normal** version doesnt include these **PVP** mods.
 The **PVP** version includes a ***MiniMap*** so be careful with it on *servers* that do ***not*** allow **MiniMap mods** since you can ***easily*** get banned.
 
 The **Minimal** version includes ***ONLY*** the FPS boosting mods.
